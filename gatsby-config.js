@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-tinacms-demo.netlify.com/`,
+    title: `Ziro, sua presença no Atacado do Bom Retiro`,
+    author: `Conheça Mais`,
+    description: `Vamos te ajudar a comprar melhor.`,
+    siteUrl: `https://ziro.online/`,
     social: {
       twitter: `kylemathews`,
     },
